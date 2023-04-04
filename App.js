@@ -16,7 +16,6 @@ const App = () => {
     "homework7/assets/images/img3.png",
     "homework7/assets/images/img4.png",
     "homework7/assets/images/img5.png",
-    "homework7/assets/images/img6.png",
   ];
 
   const checkHandler = () => {
