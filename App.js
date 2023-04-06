@@ -10,13 +10,7 @@ import {
 
 const App = () => {
   const [cn, setCn] = useState(0);
-  const color = [
-    "homework7/assets/images/img1.png",
-    "homework7/assets/images/img2.png",
-    "homework7/assets/images/img3.png",
-    "homework7/assets/images/img4.png",
-    "homework7/assets/images/img5.png",
-  ];
+  const color = [];
 
   const checkHandler = () => {
     const ran = Math.floor(Math.random() * 6);
